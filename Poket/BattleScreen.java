@@ -9,7 +9,7 @@ import java.util.random.*;
 
 public class BattleScreen extends JFrame {
     //파일 경로 설정
-	private String imagePath = "C:\\Users\\xorud\\Desktop\\team_project\\Team\\src\\Poket\\Image\\";
+	private String imagePath = "";
     
 	//패널에 필요한 요소들 모두 추가
     private PlayerMovePanel MP;
