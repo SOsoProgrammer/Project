@@ -3,7 +3,7 @@ import javax.swing.*;
 public class Execute {
 
 	public static void main(String[] args) {
-		final String imagePath = "C:\\Users\\xorud\\Desktop\\team_project\\Team\\src\\Poket\\Image\\";
+		final String imagePath = "";
 		int[][] map = {{1,1,1,1,1,1,1,1,1,1},
 					   {1,9,9,9,9,9,9,9,9,1},
 					   {1,0,0,0,0,0,0,9,9,1},
