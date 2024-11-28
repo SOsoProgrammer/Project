@@ -3,7 +3,7 @@ import javax.swing.*;
 public class Execute {
 
 	public static void main(String[] args) {
-		final String imagePath = "";
+		final String imagePath = "\\";
 		int[][] map = {{1,1,1,1,1,1,1,1,1,1},
 					   {1,9,9,9,9,9,9,9,9,1},
 					   {1,0,0,0,0,0,0,9,9,1},
