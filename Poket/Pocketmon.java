@@ -4,7 +4,7 @@ import java.awt.*;
 import java.util.Random;
 
 public class Pocketmon {
-	final String imagePath = "C:\\Users\\xorud\\Desktop\\team_project\\Team\\src\\Poket\\Image\\";
+	final String imagePath = "";
 	private String name;
 	private Image image;
 	private int Max_health;
