@@ -16,9 +16,6 @@ public class Battle extends JPanel{
 		setBackground(Color.WHITE);
 		if (myPocketmon != null) {
             myPocketmon.draw(g, 100, 220);
-        }
-        if (enemyPocketmon != null) {
-            enemyPocketmon.draw(g, 300, 50);
-        }
+        	}
 	}
 }
